@@ -1,0 +1,38 @@
+{
+	"version": "0.2",
+	"language": "en",
+	"words": [
+		"alphanum",
+		"axios",
+		"buildx",
+		"codecov",
+		"commitlint",
+		"deadcode",
+		"dind",
+		"dockerhub",
+		"dto",
+		"dtos",
+		"env",
+		"fullstacksjs",
+		"globby",
+		"hoseinprd",
+		"initdb",
+		"insync",
+		"jenkinsfile",
+		"joi",
+		"metatype",
+		"sveltekit",
+		"tailwindcss",
+		"workdir"
+	],
+	"ignoreWords": [],
+	"ignorePaths": [
+		"node_modules/**",
+		"endpoints/**",
+		"*coverage/**",
+		".husky/**",
+		".github/**",
+		"dist/**",
+		"logs/**"
+	]
+}
